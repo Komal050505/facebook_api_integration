@@ -1,0 +1,146 @@
+2024-08-05 12:17:27,876 - INFO - Starting to post a message with a link to Facebook.
+2024-08-05 12:41:30,684 - INFO - Starting to post a message with a link to Facebook.
+2024-08-05 12:41:30,693 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-05 12:41:31,187 - DEBUG - https://graph.facebook.com:443 "POST /367234763145366/feed?access_token=EAAMbkXF2N6MBO5eXMZBVemdjPqe0MS1BD0Ep4Nmh80GK3xq07AG8xWk1gEuqlDfdv9RJnzf5hnBVxTQpmCQAPAjkx5XKDUJZBroP021FEvvwwfTg1EavC7FgnhVrQjtmZAmJIzo2W4Jeytjo2s6PyuX0k4mp9itiFICVFLlvQ3YbsHDoVyfiVF2woJWMdI7Jx7cR9AZAIp0xWKOpZBFw5Q9ZCmBTvGTNIuREH1mUEZAJA6mDV885eUSZBmrwBcg6CWAf1XZBbIk4ZD HTTP/11" 403 292
+2024-08-05 12:41:31,193 - ERROR - Failed to post message: 403 Client Error: Forbidden for url: https://graph.facebook.com/367234763145366/feed?access_token=EAAMbkXF2N6MBO5eXMZBVemdjPqe0MS1BD0Ep4Nmh80GK3xq07AG8xWk1gEuqlDfdv9RJnzf5hnBVxTQpmCQAPAjkx5XKDUJZBroP021FEvvwwfTg1EavC7FgnhVrQjtmZAmJIzo2W4Jeytjo2s6PyuX0k4mp9itiFICVFLlvQ3YbsHDoVyfiVF2woJWMdI7Jx7cR9AZAIp0xWKOpZBFw5Q9ZCmBTvGTNIuREH1mUEZAJA6mDV885eUSZBmrwBcg6CWAf1XZBbIk4ZD
+2024-08-05 13:05:28,789 - INFO - Starting to post a message with a link to Facebook.
+2024-08-05 13:05:28,793 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-05 13:05:29,421 - DEBUG - https://graph.facebook.com:443 "POST /your_page_id_here/feed?access_token=EAAMbkXF2N6MBO5eXMZBVemdjPqe0MS1BD0Ep4Nmh80GK3xq07AG8xWk1gEuqlDfdv9RJnzf5hnBVxTQpmCQAPAjkx5XKDUJZBroP021FEvvwwfTg1EavC7FgnhVrQjtmZAmJIzo2W4Jeytjo2s6PyuX0k4mp9itiFICVFLlvQ3YbsHDoVyfiVF2woJWMdI7Jx7cR9AZAIp0xWKOpZBFw5Q9ZCmBTvGTNIuREH1mUEZAJA6mDV885eUSZBmrwBcg6CWAf1XZBbIk4ZD HTTP/11" 400 291
+2024-08-05 13:05:29,423 - ERROR - Failed to post message: 400 Client Error: Bad Request for url: https://graph.facebook.com/your_page_id_here/feed?access_token=EAAMbkXF2N6MBO5eXMZBVemdjPqe0MS1BD0Ep4Nmh80GK3xq07AG8xWk1gEuqlDfdv9RJnzf5hnBVxTQpmCQAPAjkx5XKDUJZBroP021FEvvwwfTg1EavC7FgnhVrQjtmZAmJIzo2W4Jeytjo2s6PyuX0k4mp9itiFICVFLlvQ3YbsHDoVyfiVF2woJWMdI7Jx7cR9AZAIp0xWKOpZBFw5Q9ZCmBTvGTNIuREH1mUEZAJA6mDV885eUSZBmrwBcg6CWAf1XZBbIk4ZD
+2024-08-05 13:08:27,358 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-05 13:08:27,810 - DEBUG - https://graph.facebook.com:443 "GET /v12.0/your_page_name_here?access_token=EAAMbkXF2N6MBO5eXMZBVemdjPqe0MS1BD0Ep4Nmh80GK3xq07AG8xWk1gEuqlDfdv9RJnzf5hnBVxTQpmCQAPAjkx5XKDUJZBroP021FEvvwwfTg1EavC7FgnhVrQjtmZAmJIzo2W4Jeytjo2s6PyuX0k4mp9itiFICVFLlvQ3YbsHDoVyfiVF2woJWMdI7Jx7cR9AZAIp0xWKOpZBFw5Q9ZCmBTvGTNIuREH1mUEZAJA6mDV885eUSZBmrwBcg6CWAf1XZBbIk4ZD HTTP/11" 400 288
+2024-08-05 13:09:02,745 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-05 13:09:03,083 - DEBUG - https://graph.facebook.com:443 "GET /v12.0/your_page_name_here?access_token=874736417912739%7CHpUvjEYc9reIti6K4jukF5e5ELg HTTP/11" 400 293
+2024-08-05 13:19:58,205 - INFO - Starting to post a message with a link to Facebook.
+2024-08-05 13:19:58,208 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-05 13:20:00,771 - DEBUG - https://graph.facebook.com:443 "POST /367237699811419/feed?access_token=874736417912739%7CHpUvjEYc9reIti6K4jukF5e5ELg HTTP/11" 403 292
+2024-08-05 13:20:00,773 - ERROR - Failed to post message: 403 Client Error: Forbidden for url: https://graph.facebook.com/367237699811419/feed?access_token=874736417912739%7CHpUvjEYc9reIti6K4jukF5e5ELg
+2024-08-05 13:20:22,917 - INFO - Starting to post a message with a link to Facebook.
+2024-08-05 13:20:22,920 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-05 13:20:23,344 - DEBUG - https://graph.facebook.com:443 "POST /367237699811419/feed?access_token=EAAMbkXF2N6MBO5eXMZBVemdjPqe0MS1BD0Ep4Nmh80GK3xq07AG8xWk1gEuqlDfdv9RJnzf5hnBVxTQpmCQAPAjkx5XKDUJZBroP021FEvvwwfTg1EavC7FgnhVrQjtmZAmJIzo2W4Jeytjo2s6PyuX0k4mp9itiFICVFLlvQ3YbsHDoVyfiVF2woJWMdI7Jx7cR9AZAIp0xWKOpZBFw5Q9ZCmBTvGTNIuREH1mUEZAJA6mDV885eUSZBmrwBcg6CWAf1XZBbIk4ZD HTTP/11" 403 290
+2024-08-05 13:20:23,345 - ERROR - Failed to post message: 403 Client Error: Forbidden for url: https://graph.facebook.com/367237699811419/feed?access_token=EAAMbkXF2N6MBO5eXMZBVemdjPqe0MS1BD0Ep4Nmh80GK3xq07AG8xWk1gEuqlDfdv9RJnzf5hnBVxTQpmCQAPAjkx5XKDUJZBroP021FEvvwwfTg1EavC7FgnhVrQjtmZAmJIzo2W4Jeytjo2s6PyuX0k4mp9itiFICVFLlvQ3YbsHDoVyfiVF2woJWMdI7Jx7cR9AZAIp0xWKOpZBFw5Q9ZCmBTvGTNIuREH1mUEZAJA6mDV885eUSZBmrwBcg6CWAf1XZBbIk4ZD
+2024-08-05 15:40:24,391 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-05 15:40:25,739 - DEBUG - https://graph.facebook.com:443 "POST /367237699811419/feed?access_token=EAAMbkXF2N6MBO5eXMZBVemdjPqe0MS1BD0Ep4Nmh80GK3xq07AG8xWk1gEuqlDfdv9RJnzf5hnBVxTQpmCQAPAjkx5XKDUJZBroP021FEvvwwfTg1EavC7FgnhVrQjtmZAmJIzo2W4Jeytjo2s6PyuX0k4mp9itiFICVFLlvQ3YbsHDoVyfiVF2woJWMdI7Jx7cR9AZAIp0xWKOpZBFw5Q9ZCmBTvGTNIuREH1mUEZAJA6mDV885eUSZBmrwBcg6CWAf1XZBbIk4ZD HTTP/11" 400 255
+2024-08-05 15:43:22,497 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-05 15:43:23,742 - DEBUG - https://graph.facebook.com:443 "POST /367237699811419/feed?access_token=EAAMbkXF2N6MBO7IWZCZBPokhgc3zte4kRVeP9WSQ8x7DFXIj9FaZBlB3TRsdBC9BFEV9f26BYws2wPqGhGZCQlk3OgOklJZBIix3vHP9cYmp7358sq2DXgiCielOJEuSwerMjfYRzZBtZAHvGjZCFlvXw451oaKxQfUEPbBv6eozmA2Eas4PLhQUDTKjPUSeFFbCDooF2oy7fVVCuU9fDCmRV2Qbl4UZBLZBZBZCL0EeS63ChGnzEtQpBz5kpxhvGIbOv8gtmRZBF3wZDZD HTTP/11" 403 289
+2024-08-05 16:10:09,473 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-05 16:10:10,743 - DEBUG - https://graph.facebook.com:443 "POST /367237699811419/feed?access_token=EAAMbkXF2N6MBO7IWZCZBPokhgc3zte4kRVeP9WSQ8x7DFXIj9FaZBlB3TRsdBC9BFEV9f26BYws2wPqGhGZCQlk3OgOklJZBIix3vHP9cYmp7358sq2DXgiCielOJEuSwerMjfYRzZBtZAHvGjZCFlvXw451oaKxQfUEPbBv6eozmA2Eas4PLhQUDTKjPUSeFFbCDooF2oy7fVVCuU9fDCmRV2Qbl4UZBLZBZBZCL0EeS63ChGnzEtQpBz5kpxhvGIbOv8gtmRZBF3wZDZD HTTP/11" 403 291
+2024-08-05 23:07:08,526 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-05 23:07:09,494 - DEBUG - https://graph.facebook.com:443 "POST /367237699811419/feed?access_token=EAAMbkXF2N6MBO7IWZCZBPokhgc3zte4kRVeP9WSQ8x7DFXIj9FaZBlB3TRsdBC9BFEV9f26BYws2wPqGhGZCQlk3OgOklJZBIix3vHP9cYmp7358sq2DXgiCielOJEuSwerMjfYRzZBtZAHvGjZCFlvXw451oaKxQfUEPbBv6eozmA2Eas4PLhQUDTKjPUSeFFbCDooF2oy7fVVCuU9fDCmRV2Qbl4UZBLZBZBZCL0EeS63ChGnzEtQpBz5kpxhvGIbOv8gtmRZBF3wZDZD HTTP/11" 400 255
+2024-08-05 23:15:32,132 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-05 23:15:33,673 - DEBUG - https://graph.facebook.com:443 "POST /your_page_id/feed?access_token=your_page_access_token HTTP/11" 400 152
+2024-08-06 08:12:28,268 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 08:12:28,950 - DEBUG - https://graph.facebook.com:443 "POST /367237699811419/feed?access_token=EAAHiUALVr0QBO7jhQqvd2qWPZCKwqHqhbfUYmZBQvEoqWbTwagYMsVEC3NGRhZCZCtGhG1B5Kon1KXZCf3uwUVcHf3FG1CwfA3esQLDWatQo2ZAAT6QtZBTZBZAtCkj8ZBiCnZCgsoH2LXlbRRMcVM3iJvzSSMC7noJobLwUDFV6FA1iHIxUzXYdoVdBpVNbKvr6FkOioGEJnpV9wDHMgWgTBtTqclEYPbPWK99pvIZD HTTP/11" 403 286
+2024-08-06 08:16:38,168 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 08:16:38,524 - DEBUG - https://graph.facebook.com:443 "POST /367234763145366/feed?access_token=EAAHiUALVr0QBO7jhQqvd2qWPZCKwqHqhbfUYmZBQvEoqWbTwagYMsVEC3NGRhZCZCtGhG1B5Kon1KXZCf3uwUVcHf3FG1CwfA3esQLDWatQo2ZAAT6QtZBTZBZAtCkj8ZBiCnZCgsoH2LXlbRRMcVM3iJvzSSMC7noJobLwUDFV6FA1iHIxUzXYdoVdBpVNbKvr6FkOioGEJnpV9wDHMgWgTBtTqclEYPbPWK99pvIZD HTTP/11" 403 290
+2024-08-06 08:17:15,161 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 08:17:15,550 - DEBUG - https://graph.facebook.com:443 "POST /367237699811419/feed?access_token=EAAHiUALVr0QBO7jhQqvd2qWPZCKwqHqhbfUYmZBQvEoqWbTwagYMsVEC3NGRhZCZCtGhG1B5Kon1KXZCf3uwUVcHf3FG1CwfA3esQLDWatQo2ZAAT6QtZBTZBZAtCkj8ZBiCnZCgsoH2LXlbRRMcVM3iJvzSSMC7noJobLwUDFV6FA1iHIxUzXYdoVdBpVNbKvr6FkOioGEJnpV9wDHMgWgTBtTqclEYPbPWK99pvIZD HTTP/11" 403 286
+2024-08-06 18:40:58,720 - INFO - Starting to post a message with a link to Facebook.
+2024-08-06 18:40:58,732 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 18:40:59,342 - DEBUG - https://graph.facebook.com:443 "POST /368822856319781/feed?access_token=EAAHj0ciOh0QBOxYUdEHBspSxZBiBNvJ741BRJZCaLHZBxcA1a5t5fw6q1KP9qEPPDeEePD2IWPPiEQeBDP2WKkx5tYHVy6ebV3POEKHAjAUBiEI3FYoL5pXvRrf3fGZBKOmqDVgruQ5XdzFJb42wSqIR6pgHIihgQvrDqagofb71ZCRpSdTDwh98mZAaIhePekZB7FUO2maLzn6LtZBcoeL48JCVlPgwc1H9 HTTP/11" 403 289
+2024-08-06 18:40:59,349 - ERROR - Failed to post message: 403 Client Error: Forbidden for url: https://graph.facebook.com/368822856319781/feed?access_token=EAAHj0ciOh0QBOxYUdEHBspSxZBiBNvJ741BRJZCaLHZBxcA1a5t5fw6q1KP9qEPPDeEePD2IWPPiEQeBDP2WKkx5tYHVy6ebV3POEKHAjAUBiEI3FYoL5pXvRrf3fGZBKOmqDVgruQ5XdzFJb42wSqIR6pgHIihgQvrDqagofb71ZCRpSdTDwh98mZAaIhePekZB7FUO2maLzn6LtZBcoeL48JCVlPgwc1H9
+2024-08-06 18:44:53,179 - INFO - Starting to post a message with a link to Facebook.
+2024-08-06 18:44:53,183 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 18:44:53,668 - DEBUG - https://graph.facebook.com:443 "POST /368822856319781/feed?access_token=EAAHj0ciOh0QBO1lqjl89z0WF0Oklit3yFTarpXAp7m28RZCI7p5eOnhOPPMZADWoE9Nl2v7kYtyAEpIav1Jiz3iZCUgFxVdDKOfvMeAaDSxAb1Bu1P2eAbrLaew7tVy7QOknkm2MJjZBNfQuj5Eay2VrmndPZBQXvwQdDrOusVPbrjaMmCEa9SoQ0SepzS39ls6QuHhHbFBPpsZA1QAu5BpQbuXsuYKL4WODUZD HTTP/11" 403 287
+2024-08-06 18:44:53,671 - ERROR - Failed to post message: 403 Client Error: Forbidden for url: https://graph.facebook.com/368822856319781/feed?access_token=EAAHj0ciOh0QBO1lqjl89z0WF0Oklit3yFTarpXAp7m28RZCI7p5eOnhOPPMZADWoE9Nl2v7kYtyAEpIav1Jiz3iZCUgFxVdDKOfvMeAaDSxAb1Bu1P2eAbrLaew7tVy7QOknkm2MJjZBNfQuj5Eay2VrmndPZBQXvwQdDrOusVPbrjaMmCEa9SoQ0SepzS39ls6QuHhHbFBPpsZA1QAu5BpQbuXsuYKL4WODUZD
+2024-08-06 18:49:17,065 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 18:49:17,332 - DEBUG - https://graph.facebook.com:443 "POST /YOUR_PAGE_ID/feed?message=Hello+World&access_token=YOUR_ACCESS_TOKEN HTTP/11" 400 117
+2024-08-06 21:32:57,429 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 21:32:57,790 - DEBUG - https://graph.facebook.com:443 "POST /YOUR_PAGE_ID/feed?message=Hello+World&access_token=YOUR_ACCESS_TOKEN HTTP/11" 400 117
+2024-08-06 21:34:20,479 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 21:34:20,781 - DEBUG - https://graph.facebook.com:443 "POST /PAGE_ID/feed?message=Hello+World&access_token=ACCESS_TOKEN HTTP/11" 400 152
+2024-08-06 21:43:20,332 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 21:43:20,609 - DEBUG - https://graph.facebook.com:443 "POST /PAGE_ID/feed?message=Hello+World&access_token=ACCESS_TOKEN HTTP/11" 400 152
+2024-08-06 21:45:22,023 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 21:45:22,320 - DEBUG - https://graph.facebook.com:443 "POST /PAGE_ID/feed?message=Hello+World&access_token=ACCESS_TOKEN HTTP/11" 400 152
+2024-08-06 21:47:28,686 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 21:47:28,984 - DEBUG - https://graph.facebook.com:443 "POST /PAGE_ID/feed?message=Hello+World&access_token=ACCESS_TOKEN HTTP/11" 400 152
+2024-08-06 21:48:25,681 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 21:48:25,988 - DEBUG - https://graph.facebook.com:443 "POST /PAGE_ID/feed?message=Hello+World&access_token=ACCESS_TOKEN HTTP/11" 400 152
+2024-08-06 21:50:11,851 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 21:50:12,161 - DEBUG - https://graph.facebook.com:443 "GET /me/accounts?access_token=ACCESS_TOKEN HTTP/11" 400 152
+2024-08-06 21:51:08,267 - DEBUG - Starting new HTTPS connection (1): www.facebook.com:443
+2024-08-06 21:51:08,562 - DEBUG - https://www.facebook.com:443 "GET /profile.php?id=61564055065315&access_token=ACCESS_TOKEN HTTP/11" 301 0
+2024-08-06 21:51:08,828 - DEBUG - https://www.facebook.com:443 "GET /people/Rajesh-Sri/pfbid0hx4wSD2fURxpJxT1iJ2rXkXXW9g4jyMbYJe68Tt1RoHHRvdN8SqMsh3o5sKvV9sPl/?access_token=ACCESS_TOKEN HTTP/11" 200 None
+2024-08-06 22:06:50,310 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 22:06:50,606 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/PAGE_ID/photos HTTP/11" 400 152
+2024-08-06 22:10:55,765 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 22:10:56,065 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/PAGE_ID/photos HTTP/11" 400 152
+2024-08-06 22:14:39,638 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 22:14:39,884 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/PAGE_ID/photos HTTP/11" 400 152
+2024-08-06 22:16:33,883 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 22:16:34,133 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/YOUR_PAGE_ID/photos HTTP/11" 400 117
+2024-08-06 22:17:01,459 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 22:17:01,728 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/YOUR_PAGE_ID/photos HTTP/11" 400 117
+2024-08-06 22:18:11,354 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 22:18:11,683 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/YOUR_PAGE_ID/photos HTTP/11" 400 117
+2024-08-06 22:18:11,684 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/YOUR_PAGE_ID/photos
+2024-08-06 22:18:11,684 - DEBUG - Response Content: b'{"error":{"message":"Got unexpected null","type":"OAuthException","code":190,"fbtrace_id":"AbkvbF8IjOqSuLkD1vrHWg6"}}'
+2024-08-06 22:18:29,990 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 22:18:30,279 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/YOUR_PAGE_ID/photos HTTP/11" 400 117
+2024-08-06 22:18:30,281 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/YOUR_PAGE_ID/photos
+2024-08-06 22:18:30,281 - DEBUG - Response Content: b'{"error":{"message":"Got unexpected null","type":"OAuthException","code":190,"fbtrace_id":"Apy__lk5v7AxC1cRjk6n14f"}}'
+2024-08-06 22:23:20,922 - DEBUG - Payload: {'url': 'https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA', 'caption': 'KALKI Movie Poster', 'access_token': 'EAAHj0ciOh0QBOx7azFxM4loPMBAgKYoZC7zzddr48tZC0waSl3DouiXCaDZBS6gAR4yUDRC8acrJjZAx0Is9UhEoalZBqeETgHEK1JWL1il4K1G7bRRW1ZB4xTAJye80kARxw3qFX1hEYPOvkzdxu3frre7zKaifNuZCuo4aRsOdfyTTv8xctuIr6O5uCvw1kkawfwFCSzjQ1VD5jp0M5BFE8TEmG3w1MkSeKh3', 'page_id': '368822856319781'}
+2024-08-06 22:23:20,925 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 22:23:21,284 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/YOUR_PAGE_ID/photos HTTP/11" 400 292
+2024-08-06 22:23:21,290 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/YOUR_PAGE_ID/photos
+2024-08-06 22:23:21,291 - DEBUG - Response Content: b'{"error":{"message":"Unsupported post request. Object with ID \'YOUR_PAGE_ID\' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"Ap7v_-rQyZZheX9f8FEO9Wc"}}'
+2024-08-06 22:29:22,054 - DEBUG - Payload: {'url': 'https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA', 'caption': 'KALKI Movie Poster', 'access_token': 'EAAHj0ciOh0QBOx7azFxM4loPMBAgKYoZC7zzddr48tZC0waSl3DouiXCaDZBS6gAR4yUDRC8acrJjZAx0Is9UhEoalZBqeETgHEK1JWL1il4K1G7bRRW1ZB4xTAJye80kARxw3qFX1hEYPOvkzdxu3frre7zKaifNuZCuo4aRsOdfyTTv8xctuIr6O5uCvw1kkawfwFCSzjQ1VD5jp0M5BFE8TEmG3w1MkSeKh3', 'page_id': '368822856319781'}
+2024-08-06 22:29:22,058 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 22:29:22,380 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/YOUR_PAGE_ID/photos HTTP/11" 400 290
+2024-08-06 22:29:22,380 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/YOUR_PAGE_ID/photos
+2024-08-06 22:29:22,380 - DEBUG - Response Content: b'{"error":{"message":"Unsupported post request. Object with ID \'YOUR_PAGE_ID\' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"ADxk54p_WkjpkVp1fEGUTEt"}}'
+2024-08-06 22:30:15,537 - DEBUG - Payload: {'url': 'https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA', 'caption': 'KALKI Movie Poster', 'access_token': 'EAAHj0ciOh0QBOx7azFxM4loPMBAgKYoZC7zzddr48tZC0waSl3DouiXCaDZBS6gAR4yUDRC8acrJjZAx0Is9UhEoalZBqeETgHEK1JWL1il4K1G7bRRW1ZB4xTAJye80kARxw3qFX1hEYPOvkzdxu3frre7zKaifNuZCuo4aRsOdfyTTv8xctuIr6O5uCvw1kkawfwFCSzjQ1VD5jp0M5BFE8TEmG3w1MkSeKh3', 'page_id': '368822856319781'}
+2024-08-06 22:30:15,540 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-06 22:30:15,878 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/YOUR_PAGE_ID/photos HTTP/11" 400 292
+2024-08-06 22:30:15,880 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/YOUR_PAGE_ID/photos
+2024-08-06 22:30:15,880 - DEBUG - Response Content: b'{"error":{"message":"Unsupported post request. Object with ID \'YOUR_PAGE_ID\' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AV6bYJnE3XeKa4ybWT6WHRI"}}'
+2024-08-07 08:10:31,977 - DEBUG - Payload: {'url': 'https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA', 'caption': 'KALKI Movie Poster', 'access_token': 'EAAHj0ciOh0QBOx7azFxM4loPMBAgKYoZC7zzddr48tZC0waSl3DouiXCaDZBS6gAR4yUDRC8acrJjZAx0Is9UhEoalZBqeETgHEK1JWL1il4K1G7bRRW1ZB4xTAJye80kARxw3qFX1hEYPOvkzdxu3frre7zKaifNuZCuo4aRsOdfyTTv8xctuIr6O5uCvw1kkawfwFCSzjQ1VD5jp0M5BFE8TEmG3w1MkSeKh3', 'page_id': '368822856319781'}
+2024-08-07 08:10:31,985 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-07 08:10:32,313 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/YOUR_PAGE_ID/photos HTTP/11" 400 257
+2024-08-07 08:10:32,315 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/YOUR_PAGE_ID/photos
+2024-08-07 08:10:32,315 - DEBUG - Response Content: b'{"error":{"message":"Error validating access token: Session has expired on Tuesday, 06-Aug-24 11:00:00 PDT. The current time is Tuesday, 06-Aug-24 19:40:31 PDT.","type":"OAuthException","code":190,"error_subcode":463,"fbtrace_id":"AGQ3OqCMC30YaZEJKATdLlY"}}'
+2024-08-07 09:16:18,553 - DEBUG - Payload: {'url': 'https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA', 'caption': 'KALKI Movie Poster', 'access_token': 'EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF', 'page_id': '403714366157679'}
+2024-08-07 09:16:18,562 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-07 09:16:19,031 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/YOUR_PAGE_ID/photos HTTP/11" 400 292
+2024-08-07 09:16:19,035 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/YOUR_PAGE_ID/photos
+2024-08-07 09:16:19,036 - DEBUG - Response Content: b'{"error":{"message":"Unsupported post request. Object with ID \'YOUR_PAGE_ID\' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"ANTfgto8dhW4szQE0f-QfO6"}}'
+2024-08-07 09:18:15,915 - DEBUG - Payload: {'url': 'https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA', 'caption': 'KALKI Movie Poster', 'access_token': 'EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF', 'page_id': '403714366157679'}
+2024-08-07 09:18:15,918 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-07 09:18:16,902 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/PAGE_ID/photos HTTP/11" 400 287
+2024-08-07 09:18:16,904 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/PAGE_ID/photos
+2024-08-07 09:18:16,904 - DEBUG - Response Content: b'{"error":{"message":"Unsupported post request. Object with ID \'PAGE_ID\' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\\/\\/developers.facebook.com\\/docs\\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"A6uQEI0p4l-wIpHVFAz_cQY"}}'
+2024-08-07 12:49:22,358 - DEBUG - Function main started
+2024-08-07 12:49:22,359 - INFO - Function create_post started with message: KALKI Movie Poster, image_url: https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA
+2024-08-07 12:49:22,360 - INFO - Creating post with payload: {'message': None, 'link': None, 'published': False, 'caption': 'KALKI Movie Poster', 'url': 'https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA'}
+2024-08-07 12:49:22,377 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-07 12:49:23,655 - DEBUG - https://graph.facebook.com:443 "POST /403714366157679/photos?access_token=EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF HTTP/11" 400 269
+2024-08-07 12:49:23,664 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/403714366157679/photos?access_token=EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF
+2024-08-07 12:49:23,664 - DEBUG - Response Content: b'{"error":{"message":"Invalid parameter","type":"OAuthException","code":100,"error_subcode":1366046,"is_transient":false,"error_user_title":"Can\'t read files","error_user_msg":"Your photos couldn\'t be uploaded. Photos should be smaller than 4 MB and saved as JPG, PNG, GIF, TIFF, HEIF or WebP files.","fbtrace_id":"AVJEFCMqs7SDQQ1ukg1kl3A"}}'
+2024-08-07 12:49:30,014 - INFO - Function create_post completed
+2024-08-07 12:49:30,014 - ERROR - Failed to create post: 400 Client Error: Bad Request for url: https://graph.facebook.com/403714366157679/photos?access_token=EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF
+2024-08-07 16:47:42,193 - DEBUG - Function main started
+2024-08-07 16:47:42,194 - INFO - Function create_post started with caption: KALKI Movie Poster, image_url: https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA
+2024-08-07 16:47:42,194 - INFO - Creating post with payload: {'message': 'KALKI Movie Poster', 'link': None, 'published': False, 'url': 'https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA'}
+2024-08-07 16:47:42,202 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-07 16:47:43,861 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/403714366157679/photos?access_token=EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF HTTP/11" 400 270
+2024-08-07 16:47:43,910 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/403714366157679/photos?access_token=EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF
+2024-08-07 16:47:43,910 - DEBUG - Response Content: b'{"error":{"message":"Invalid parameter","type":"OAuthException","code":100,"error_subcode":1366046,"is_transient":false,"error_user_title":"Can\'t read files","error_user_msg":"Your photos couldn\'t be uploaded. Photos should be smaller than 4 MB and saved as JPG, PNG, GIF, TIFF, HEIF or WebP files.","fbtrace_id":"AYL-KcXGDhkJq3_QozA6FgX"}}'
+2024-08-07 16:47:47,792 - INFO - Function create_post completed
+2024-08-07 16:47:47,792 - ERROR - Failed to create post: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/403714366157679/photos?access_token=EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF
+2024-08-07 16:50:44,456 - INFO - Function create_post started with caption: Test Caption, image_url: https://www.example.com/path/to/your/image.jpg
+2024-08-07 16:50:44,458 - INFO - Creating post with payload: {'message': 'Test Caption', 'link': None, 'published': False, 'url': 'https://www.example.com/path/to/your/image.jpg'}
+2024-08-07 16:50:44,464 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-07 16:50:45,042 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/403714366157679/photos?access_token=EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF HTTP/11" 400 235
+2024-08-07 16:50:45,045 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/403714366157679/photos?access_token=EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF
+2024-08-07 16:50:45,045 - DEBUG - Response Content: b'{"error":{"message":"Missing or invalid image file","type":"OAuthException","code":324,"error_subcode":2069019,"is_transient":true,"error_user_title":"Image required","error_user_msg":"Make sure that your Page post includes an image that can be used in an ad.","fbtrace_id":"AhiNR1Px-vtD4PK5nGRqo12"}}'
+2024-08-07 16:50:48,380 - INFO - Function create_post completed
+2024-08-07 16:53:05,899 - DEBUG - Function main started
+2024-08-07 16:53:05,900 - INFO - Function create_post started with caption: KALKI Movie Poster, image_url: https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA
+2024-08-07 16:53:05,900 - INFO - Creating post with payload: {'message': 'KALKI Movie Poster', 'link': None, 'published': False, 'url': 'https://photos.app.goo.gl/eiXzJnqb8sj6Z4mVA'}
+2024-08-07 16:53:05,907 - DEBUG - Starting new HTTPS connection (1): graph.facebook.com:443
+2024-08-07 16:53:06,997 - DEBUG - https://graph.facebook.com:443 "POST /v12.0/403714366157679/photos?access_token=EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF HTTP/11" 400 268
+2024-08-07 16:53:07,003 - ERROR - HTTP error occurred: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/403714366157679/photos?access_token=EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF
+2024-08-07 16:53:07,004 - DEBUG - Response Content: b'{"error":{"message":"Invalid parameter","type":"OAuthException","code":100,"error_subcode":1366046,"is_transient":false,"error_user_title":"Can\'t read files","error_user_msg":"Your photos couldn\'t be uploaded. Photos should be smaller than 4 MB and saved as JPG, PNG, GIF, TIFF, HEIF or WebP files.","fbtrace_id":"AZYpT0JNPBnbLruzknYFfuT"}}'
+2024-08-07 16:53:10,335 - INFO - Function create_post completed
+2024-08-07 16:53:10,335 - ERROR - Failed to create post: 400 Client Error: Bad Request for url: https://graph.facebook.com/v12.0/403714366157679/photos?access_token=EAAVJnhaGsZCYBOzDZAj5xaCMuBda54JAVOYC4qUhXxd85mFAIHWN3G7Hyr6RG9Ura4JS6kM32NbExJIFrq4eYZCd5xkcuckS91x3UfnXlnIYkBUkcrtUyu6Fn6MlCb4pfYZCHWMQS5Uuf21VDPq0uOent3gfnYSy5v3JZCNPZBJwfkyD7DSXy678ZAl0eJQKfOJVYZBZBndVF
